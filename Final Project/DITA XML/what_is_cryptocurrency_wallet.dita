@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_cryptocurrency_wallet">
+    <title>What is Cryptocurrency Wallet?</title>
+    <shortdesc>A cryptocurrency wallet is a secure digital wallet used to store, send, and receive digital currencies like Bitcoin.
+        In order to use cryptocurrency, you’ll need to use a cryptocurrency wallet.</shortdesc>
+    <conbody>
+        <p>In this guide you will learn what cryprocurrency wallet is.</p>
+        <section>
+            <title>Cryptocurrency wallet</title>
+            <p>Wallets are software that can be used to view cryptocurrency balances and make transactions.</p>
+            <p>There are several types of wallets you can use including online, offline, mobile, hardware, desktop, and paper.
+                Each “type” refers to what type of medium the wallet is stored on, who is in control of the wallet, and whether or not the data is stored online.</p>
+            <p>Here is a quick breakdown of each type of wallet</p>
+            
+            <table frame="all" rowsep="1" colsep="1" id="table_1">
+                <title>Different types of wallets</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Name</entry>
+                            <entry>Description</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        
+                        <row>
+                            <entry>Full Node Wallet</entry>
+                            <entry>A wallet where you control your private keys and host a full copy of the blockchain. Essentially every coin has an official wallet of this type and that can be found on the official GitHub of the site (there is often a link on the official website).</entry>
+                        </row>
+                        <row>
+                            <entry>Custodial Wallet</entry>
+                            <entry> Some wallets let you control your private keys, some are custodial (you don’t control your keys directly). Most exchange wallets are custodial wallets.</entry>
+                        </row>
+                        <row>
+                            <entry>Desktop Wallet</entry>
+                            <entry>The most common type of wallet. Typically an app that connects directly to a coin’s client.</entry>
+                        </row>
+                        <row>
+                            <entry>Mobile Wallet</entry>
+                            <entry>A wallet that is run from a smartphone app.</entry>
+                        </row>
+                        <row>
+                            <entry>Online Wallet</entry>
+                            <entry> An online wallet is a web-based wallet. You don’t download an app, but rather data is hosted on a real or virtual server.  Some online wallets are hybrid wallets allowing encryption of private data before being sent to the online server.</entry>
+                        </row>
+                        <row>
+                            <entry>Software Wallet</entry>
+                            <entry>Any wallet that is software-based is a software wallet.</entry>
+                        </row>
+                        <row>
+                            <entry>Hardware Wallet</entry>
+                            <entry>Dedicated hardware that is specifically built to hold cryptocurrency and keep it secure. This includes USB devices. These devices can go online to make transactions and get data and then can be taken offline for transportation and security.</entry>
+                        </row>
+                        <row>
+                            <entry>Paper Wallet</entry>
+                            <entry>You can print out a QR code for both a public and private key. This allows you to both send and receive digital currency using a paper wallet. With this option, you can completely avoid storing digital data about your currency by using a paper wallet.</entry>
+                        </row>
+                        <row>
+                            <entry>Coin-specific</entry>
+                            <entry>A wallet that only works with a specific coin.</entry>
+                        </row>
+                        <row>
+                            <entry>Network-specific</entry>
+                            <entry>A wallet that can hold multiple tokens on a single network.</entry>
+                        </row>
+                        
+                    </tbody>
+                    
+                </tgroup>
+            </table>
+            
+            <p>A wallet lets you view balances associated with an address and lets you move funds around on the blockchain as long as you are the owner of the address.
+                Proving you own the address is done with a private key (a secret code associated with a public address) in non-custodial wallets. In custodial wallets, the custodian (a third party like an exchange, broker, etc) holds the key for you, and it is just a matter of inputting your password into their wallet app.
+                Essentially a wallet is like your online bank account platform, your address is like your account number, the blockchain is like the bank’s ledger, and with custodial wallets, the custodian is a bit like your banker.</p>
+        </section>
+        
+    </conbody>
+    
+</concept>

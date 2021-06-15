@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="security_tips">
+    <title>Security Tips</title>
+    <shortdesc>This guide is dedicated to maximize the security of your wallet.</shortdesc>
+    <refbody> 
+    <section>
+        <title>Tips for better security</title>
+        <p>In order to achieve greater security of your CryptoGuard wallet, please remember to implement and follow the major security principles listed below: </p>
+        <ol>
+            <li>DO NOT give your password to anyone!</li>
+            <li>DO NOT call any phone number of someone claiming to be a CryptoGuard employee or from the Support team！</li>
+            <li>DO NOT send money to anyone claiming to be a CryptoGuard employee!</li>
+            <li>Enable Two Factor Authentication (either Google Authenticator or SMS Authentication).</li>
+            <li>DO NOT share your private keys with anyone!</li>
+            <li>Make transactions only if you trust the person you are sending money to!</li>
+        </ol>
+    </section>
+        
+    </refbody>
+    
+    <reference id="security">
+        <title>For more information about security check the following links:</title>
+        <related-links>
+            <link href="https://academy.binance.com/en/articles" format="html" scope="external"></link>
+            <link href="https://academy.binance.com/en/articles" format="html" scope="external"></link>
+        </related-links>
+    </reference>
+    
+</reference>

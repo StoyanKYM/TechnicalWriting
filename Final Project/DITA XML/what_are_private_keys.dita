@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_are_private_keys">
+    <title>What are private keys?</title>
+    <shortdesc>Private keys are a crucial part of how crypto assets work. In this article you will learn what they are.</shortdesc>
+    <conbody>
+        <p></p>
+        <section>
+            <title>What are Private Keys? (Private Key Definition)</title>
+            <p>Private keys in the context of blockchain assets prove ownership of assets associated with a particular 
+                wallet address and allow you to access and spend the assets in that address.
+                Every address that you create, or own, has its own private key.</p>
+            
+            <p><i><b>An easy way to think about private keys is by using the analogy of a bank.</b></i></p>
+            <p><i>If your wallet is like your online banking account, your private key is the login for the account, allowing you to go in and spend your money as you please.</i></p>
+            
+            <p>
+                Therefore, in the same way that you want to keep your online banking information safe, you must keep your private keys safe.
+                Otherwise, anyone with the keys can “login” (access) your “account” (wallet) and drain it of your funds!
+            </p>
+        </section>
+    </conbody>
+</concept>

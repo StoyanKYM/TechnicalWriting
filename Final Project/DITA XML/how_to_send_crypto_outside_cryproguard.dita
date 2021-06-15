@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_send_crypto_outside_cryproguard">
+    <title>How to send Crypto outside CryptoGuard</title>
+    <shortdesc>This article is here to help you send your crypto out of your CryptoGuard wallet!</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the Wallet App at the top of your CryptoGuard wallet.
+                    <image align="left" href="../Nbu/NBU/NBU%20year%204/%D0%A1%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%8A%D1%80%202/Technical%20Writing%20Part%20II/exodus.png"
+                        id="image_kjs_lsl_tpb"/></cmd>
+            </step>
+            <step>
+                <cmd>Click on the crypto you want to send, then click the <b><i>Send</i></b> button.</cmd>
+                <info>These instructions work for any blockchain asset.</info>
+            </step>
+            <step>
+                <cmd>Paste in the address you want to send your crypto to.</cmd>
+                <info>You can also scan a QR code with the recipient address or invoice either from your webcam or from your desktop by clicking the QR code button and selecting where to scan from.</info>
+            </step>
+            <step>
+                <cmd>Next, type the amount you want to send. CryptoGuard lets you send in the blockchain unit or you can enter an amount of fiat currency value and Exodus does the conversion to crypto for you.</cmd>
+                <info>Then click <b><i>Send</i></b>.</info>
+            </step>
+            <step>
+                <cmd>Next, type the amount you want to send. CryptoGuard lets you send in the blockchain unit or you can enter an amount of fiat currency value and Exodus does the conversion to crypto for you.</cmd>
+                <info>Then click <b><i>Send</i></b>.</info>
+                <info>Once sent, your transaction has been broadcasted to the network and
+                    CryptoGuard will tell you your transaction was successful. <image
+                        href="../Nbu/NBU/NBU%20year%204/%D0%A1%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%8A%D1%80%202/Technical%20Writing%20Part%20II/success.png"
+                        id="image_m4p_msl_tpb"/></info>
+            </step>
+           
+        </steps>
+        <result>You have successfully send Cryptocurrency to another wallet.<p><b>Related
+                    Articles</b></p><p><xref
+                    href="https://cryptocurrencyfacts.com/how-to-send-and-receive-cryptocurrency/"
+                    format="html" scope="external">How to receive Cryptocurrency</xref></p></result>
+        
+    </taskbody>
+</task>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_setup_cryptoguard_wallet">
+    <title>How to setup CryptoGuard Wallet</title>
+    <shortdesc>In this guide you will learn how to Set Up your CryptoGuard Wallet. This adds additional secuirty to your assets.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>After Installing CryptoGuard, open the folder which CryptoGuard is installed then click on the <i><b>CryptoGuard.exe </b></i> icon.</cmd>
+            </step>
+            <step>
+                <cmd>This will take you to the home screen of CryptoGuard. First you need to enter your prefered password. Use atleast 8 characters also use symbols and numbers. Click Next.</cmd>
+            </step>
+            <step>
+                <cmd>Next page will show you your unique seed. Seed is a 12-word recovery phrase that you can use to restore your wallet in case you forget your password or loose access to it. Write this on paper and store it in a safe place. Click Next.</cmd>
+            </step>
+            <step>
+                <cmd>Next page will ask you to type your seed. After typing your seed click Next.</cmd>
+            </step>
+        </steps>
+        <result>You have successfully Set Up your CryptoGuard wallet.</result>
+    </taskbody>
+</task>

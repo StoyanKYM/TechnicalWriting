@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_exchange_fiat_for_crypto">
+    <title>How to exchange fiat for crypto</title>
+    <shortdesc>In this guide you will learn how to exchange fiat money for Cryptocurrency.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Log into your CryptoGuard wallet</cmd>
+            </step>
+            <step>
+                <cmd>Select <i><b>Buy Crypto</b></i> then click <i><b>P2P Trading</b></i> on the top navigation.</cmd>
+            </step>
+            <step>
+                <cmd>Click <i><b>Buy</b></i> and select the currency you want to buy. Filter the price and the <i><b>Payment</b></i> in the drop-down, select an ad, then click <i><b>Buy</b></i>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the amount (in your fiat currency) or quantity (in crypto) you want to buy and click <i><b>Buy</b></i></cmd>
+            </step>
+            
+        </steps>
+        <result>After the completion of the transactions, you will own the Cryptocurrency you bought in your wallet.</result>
+    </taskbody>
+</task>

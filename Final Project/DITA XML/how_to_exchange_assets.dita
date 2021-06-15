@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_exchange_assets">
+    <title>How to exchange assets</title>
+    <shortdesc>A walkthrough on how you can exchange one asset for another using CryptoGuard on your computer or mobile device!</shortdesc>
+    <taskbody>
+        <context>  
+            <sectiondiv>
+                <note>
+                    <b>How much can someone exchange?</b>
+                    <p>Inside of the in-built exchange of your CryptoGuard wallet you can choose between
+                        a lot of assets to exchange, however it is good to know there is a minimum
+                        amount you can exchange and a maximum amount you can exchange.</p><p>The
+                            exchange limits are set according to several factors such as the liquidity of
+                            the pair of assets you want to exchange as well as their profitability and
+                            market conditions.</p>
+                </note>
+                
+            </sectiondiv>
+        </context>
+        
+        <steps>
+            <step>
+                <cmd>Open CryptoGuard wallet on your computer and click on the Exchange tab at the top.
+                    <image href="../Nbu/NBU/NBU%20year%204/%D0%A1%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%8A%D1%80%202/Technical%20Writing%20Part%20II/exchange.png" align="left"
+                        id="image_ecz_vbm_tpb"/>
+                </cmd>
+            </step>
+            <step>
+                <cmd>Pick the asset from the drop-down menu that you currently own and want to swap on the left side of the exchange window, and pick the asset you want to receive on the right side of the exchange window.</cmd>
+            </step>
+            <step>
+                <cmd>Next, enter the amount of crypto you want to exchange. You have a few ways to do this:</cmd>
+                <choices>
+                    <choice>ALL: exchange all of your balance.</choice>
+                    <choice>HALF: exchange half of your balance.</choice>
+                    <choice>MIN: exchange the minimum amount the exchange will allow.</choice>
+                    <choice>Type in the exact amount of crypto by typing in the values yourself.</choice>
+                    <choice>Type in the exact amount of fiat currency by typing in the values yourself.</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Once you are happy with the amount of crypto you will send and receive in your exchange, just click the <b><i>Exchange</i></b> button down the bottom.</cmd>
+                <stepresult>Once the exchange has been initiated, there is nothing more to do on
+                    your end. You are free to close CryptoGuard during this time if you
+                    wish.</stepresult>
+            </step>
+            
+        </steps>
+        
+        
+    </taskbody>
+</task>

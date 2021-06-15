@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_install_cryptoguard">
+    <title>How to install CryptoGuard</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>To install CryptoGuard for Linux, Mac or Windows simply download the latest version
+                from our <xref href="https://www.exodus.com/" format="html" scope="external"
+                    >website</xref></p>
+        </context>
+        <steps>
+            <stepsection>
+                <p><b>Windows</b></p>
+                <p>For Windows users, you can click the installer after downloading and it will automatically install the application to your desktop.
+                    It should only take a few seconds to install, and you will be all set to get started.</p>
+                <note type="tip">CryptoGuard will only run on 64-bit systems. Make sure to check your operating system is compatible.</note>
+                
+                <p><b>MacOS</b></p>
+                <p>You can click the installer after downloading, and you will be prompted to drag the application into the Applications folder.
+                    In just a few seconds, your wallet will be installed and ready to run.</p>
+                
+                <p><b>Linux</b></p>
+                <p>
+                    If you're using a Debian-based distribution like Ubuntu, Linux Mint etc., you can download a .deb package and install Exodus by opening it.
+                    Depending on your desktop environment or distribution, the installation process might look different.
+                </p>
+                <note>If this doesn't work for your distribution, please download the zip package and use the method below.</note>
+            </stepsection>
+            
+            <step>
+                <cmd>Download the CryptoGuard .zip package, then <i><b>unzip</b></i> it.</cmd>
+            </step>
+            
+            <step>
+                <cmd>Inside the unzipped file, there will be <i>crypto-guard.desktop</i> file. Double-click it, this will launch CryptoGuard.</cmd>
+            </step>
+            
+            <step>
+                <cmd>The <i>crypto-guard.desktop</i> file contains a command that launches
+                    CryptoGuard from the current directory. Depending on your security settings, you
+                    may receive a pop-up asking you whether you trust this file to be launched.
+                    Click <b><i>Trust and launch</i></b> to proceed with the instalation.</cmd>
+            </step>
+            
+        </steps>
+        <result>You have successfully installed CryptoGuard!</result>
+        
+    </taskbody>
+    <related-links>
+        <link href="how_to_exchange_fiat_for_crypto.dita"/>
+        <link href="how_to_exchange_assets.dita"/>
+        <link href="how_to_send_crypto_outside_cryproguard.dita"/>
+    </related-links>
+    
+</task>

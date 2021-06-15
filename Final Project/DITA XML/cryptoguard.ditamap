@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>CryptoGuard User Guide</title>
+    <topichead navtitle="Getting Started with CryptoGuard">
+        <topicref href="what_is_cryptocurrency.dita"/>
+        <topicref href="what_is_cryptocurrency_wallet.dita"/>
+        <topicref href="what_is_cryptoguard.dita"/>
+        <topicref href="how_to_install_cryptoguard.dita"/>
+        <topicref href="how_to_setup_cryptoguard_wallet.dita"/>
+    </topichead>
+    <topichead navtitle="Security">
+        <topicref href="what_are_private_keys.dita"/>
+        <topicref href="security_tips.dita"/>
+    </topichead>
+    <topichead navtitle="Exchange">
+        <topicref href="how_to_exchange_fiat_for_crypto.dita"/>
+        <topicref href="how_to_exchange_assets.dita"/>
+    </topichead>
+    <topichead navtitle="Assets">
+        <topicref href="how_to_send_crypto_outside_cryproguard.dita"/>
+    </topichead>
+</map>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_cryptocurrency">
+    <title>What is Cryptocurrency?</title>
+    <shortdesc>Cryptocurrencies let you buy goods and services, or trade them for profit. Here is more about what cryptocurrency and blockchain is.</shortdesc>
+    <conbody>
+        <p><i>For additional information on this topic, check the links at the bottom of the document.</i></p>
+        <section>
+            <title>Cryptocurrency explained.</title>
+            <p>A cryptocurrency (or “crypto”) is a digital currency that can be used to buy goods and services,
+                but uses an online ledger with strong cryptography to secure online transactions.
+                Cryptocurrencies work using a technology called blockchain. Blockchain is a decentralized technology spread across many computers that manages and records transactions. 
+                Part of the appeal of this technology is its security.</p>
+        </section>
+        <section>
+            <title>Blockchain explained</title>
+            <p>Blockchain is the record keeping technology behind all cryptocurrencies.</p>
+            <b>Key takeaways</b>
+            <ul>
+                <li>Blockchain is a specific type of database.</li>
+                <li>It differs from a typical database in the way it stores information; blockchains store data in blocks that are then chained together. </li>
+                <li>As new data comes in it is entered into a fresh block. Once the block is filled with data it is chained onto the previous block, which makes the data chained together in chronological order.</li>
+                <li>Different types of information can be stored on a blockchain but the most common use so far has been as a ledger for transactions. </li>
+                <li>In Bitcoin’s case, blockchain is used in a decentralized way so that no single person or group has control—rather, all users collectively retain control.</li>
+                <li>Decentralized blockchains are immutable, which means that the data entered is irreversible. For Bitcoin, this means that transactions are permanently recorded and viewable to anyone.</li>
+            </ul>
+            <p>The difference between a typical database and a blockchain is the way the data is structured. 
+                A blockchain collects information together in groups, also known as blocks, that hold sets of information. 
+                Blocks have certain storage capacities and, when filled, are chained onto the previously filled block, forming a chain of data known as the <i>blockchain</i>. 
+                All new information that follows that freshly added block is compiled into a newly formed block that will then also be added to the chain once filled.
+                A database structures its data into tables whereas a blockchain, like its name implies, structures its data into chunks (blocks) that are chained together.</p>
+        </section>
+        <section>
+            <title>Transaction process</title>
+            <p><image
+                    href="../Nbu/NBU/NBU%20year%204/%D0%A1%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%8A%D1%80%202/Technical%20Writing%20Part%20II/brave_a8Dpb574kD.png"
+                    id="image_jlk_dll_tpb"/></p>
+            <p><b>Related Articles</b></p>
+            <p><xref href="https://www.investopedia.com/terms/b/blockchain.asp" format="html"
+                    scope="external">What is blockchain in-depth</xref></p>
+        </section>
+    </conbody>
+    
+</concept>

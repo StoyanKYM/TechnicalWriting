@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_cryptoguard">
+    <title>What is CryptoGuard?</title>
+    <shortdesc>CryptoGuard is web exchange/wallet that makes entering the crypto market easier.</shortdesc>
+    <conbody>
+        <p>With CryptoGuard you can transfer and exchange Crypto for fiat money, swap different Cryptocurrencies, trade and hold your assets securely in the CryptoGuard wallet.</p>
+        <section>
+            <title>What are the benefits of using CryptoGuard?</title>
+            <ol>
+                <li>CryptoGuard wallet is a software application for smartphones and desktop computers that lets users interact with dozens of blockchains. 
+                    Despite what the name implies, CryptoGuard is non-custodial, it does not store any funds.</li>
+                <li>In addition to being non-custodial, CryptoGuard routinely undergoes security audits. This wallet is renowned for its ease of navigation, which may come at an expense of more advanced features.</li>
+                <li>One of the most handy features of the exchange/wallet is in-app cryptocurrency exchange.</li>
+            </ol>
+            
+        </section>
+       
+    </conbody>
+    
+</concept>
